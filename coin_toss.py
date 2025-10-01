@@ -13,7 +13,7 @@ num = random.randint(1,100)
 if 1<= num <=50:
     print('Heads')
 else: 
-    print('tails')
+    print('Tails')
 
 
 
